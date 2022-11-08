@@ -9,6 +9,6 @@
 </head>
  
 <body>
-  <p>Esta página web es una página HTML válida.</p>
+  <p>COITO.</p>
 </body>
 </html>
