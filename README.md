@@ -9,6 +9,6 @@
 </head>
  
 <body>
-  <p>COITO.</p>
+  <p></p>
 </body>
 </html>
