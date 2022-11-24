@@ -13,3 +13,9 @@
     h4{
         color: rgb(241, 245, 3);
     }
+    table{
+        border: red 5px solid;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
